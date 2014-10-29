@@ -1,0 +1,19 @@
+html {
+    font-family: 'Lucida Console', 'Lucida Sans Typewriter', Consolas, monaco, monospace, sans-serif;
+}
+
+#hello {
+    background-image:url("/images/example.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hello p {
+    color: #fff;
+    font-size: 56px;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: 45%;
+}
